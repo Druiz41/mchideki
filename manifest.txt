@@ -1,0 +1,19 @@
+{
+  "mods": [
+    {
+      "file": "AlexMobs-1.20.1.jar",
+      "id": "1AbCdEFGH" 
+    },
+    {
+      "file": "Waystones.jar",
+      "id": "2bCdEfGHI"
+    }
+  ],
+  "configs": [
+    {
+      "file": "alexmobs.toml",
+      "id": "9ZYXWvuT"
+    }
+  ],
+  "news": "3rTvbHGd" 
+}
