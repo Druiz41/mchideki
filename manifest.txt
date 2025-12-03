@@ -1,0 +1,13 @@
+{
+  "mods": [
+    {
+      "file": "AlexMobs-1.20.1.jar",
+      "link": "https://tu_dominio.com/mods/AlexMobs.jar"
+    },
+    {
+      "file": "Waystones.jar",
+      "link": "https://tu_dominio.com/mods/Waystones.jar"
+    }
+  ],
+  "news": "https://tu_dominio.com/news.txt"
+}
