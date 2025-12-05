@@ -1,3 +1,25 @@
-<h1>Noticias del servidor</h1>
+<div style="color: #e0e0e0; font-size: 14px; line-height: 1.6;">
 
-<p>Evento este sábado! actualizadooo</p>
+    <h3 style="color: #66bb6a; border-bottom: 1px solid #2e6c3b; padding-bottom: 5px;">
+        ✨ ¡Bienvenido al Launcher Automatizado! ✨
+    </h3>
+
+    <p>Hola, explorador(a) digital.</p>
+
+    <p>Este launcher fue desarrollado y automatizado por <strong style="color: #9adfa0;">Daniel Ruiz</strong>. Su objetivo es brindarte una experiencia de juego **fluida** y sin complicaciones al gestionar las versiones y la configuración por ti.</p>
+
+    <h4 style="color: #ffd000; margin-top: 15px;">🛠️ Configuración Rápida (RAM y Java)</h4>
+    
+    <p>Si deseas optimizar tu rendimiento, te recomendamos:</p>
+    <ul>
+        <li>
+            <strong style="color: #64b5f6;">Memoria RAM:</strong> Puedes cambiar la RAM mínima y máxima en <span style="font-style: italic;">Configuración</span>. Asegúrate de no exceder la mitad de la RAM total de tu sistema.
+        </li>
+        <li>
+            <strong style="color: #f06292;">Ruta de Java:</strong> Si tienes problemas de lanzamiento, dirígete a <span style="font-style: italic;">Configuración</span>. La ruta predeterminada ya está configurada para el Java que viene incluido. Si cambias la ruta, te sugerimos usar el botón **"Java por defecto"** para volver a cargar la ruta optimizada que te recomendamos.
+        </li>
+    </ul>
+
+    <p style="text-align: center; margin-top: 20px;">¡A disfrutar del juego!</p>
+
+</div>
