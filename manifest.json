@@ -1,36 +1,181 @@
 {
   "mods": [
     {
-      "file": "architectury-9.2.14-forge.jar",
-      "link": "http://drive.google.com/uc?export=download&id=1Y9DcvSWQ5s01HrP64tlKm-MsggmzS69_"
-    },
-    {
-      "file": "[1.20.1] SecurityCraft v1.10.1.jar",
-      "link": "https://drive.google.com/uc?export=download&id=1Al2VTxqD_da0g7rxVNgo8PMbHXNADsgj"
-    },
-    {
-      "file": "blueprint-1.20.1-7.1.3.jar",
-      "link": "https://drive.google.com/uc?export=download&id=1ws7CWo1sMhc041PNHzgl1dkjzdzD4baS"
-    },
-    {
-      "file": "bossesrise-1.20.1-forge-1.0.9.2b.jar",
-      "link": "https://drive.google.com/uc?export=download&id=1F8AJmBWTBV31mhCWEK8aG4qtv7vDpQfP"
-    },
-    {
-      "file": "carryon-forge-1.20.1-2.1.2.7.ja",
-      "link": "https://drive.google.com/uc?export=download&id=1z8LpFF2X519WLUCQOUdlPRhMuothyzYK"
-    },
-    {
-      "file": "Chunky-1.3.146.jar",
-      "link": "https://drive.google.com/uc?export=download&id=13Yp8Ye8e70p2RM0ECQh3MeQ-J36xVQhf"
-    },
-     {
-      "file": "CustomSkinLoader_ForgeV2-14.26.1.jar",
-      "link": "https://drive.google.com/uc?export=download&id=1uTgeh_8E2vmm5LSJp4ogAGbBIgsg5NzP"
-    }
+    "file": "CustomSkinLoader_ForgeV2-14.26.1.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1uTgeh_8E2vmm5LSJp4ogAGbBIgsg5NzP"
+  },
+  {
+    "file": "Chunky-1.3.146.jar",
+    "link": "https://drive.google.com/uc?export=download&id=13Yp8Ye8e70p2RM0ECQh3MeQ-J36xVQhf"
+  },
+  {
+    "file": "bossesrise-1.20.1-forge-1.0.9.2b.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1F8AJmBWTBV31mhCWEK8aG4qtv7vDpQfP"
+  },
+  {
+    "file": "blueprint-1.20.1-7.1.3.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1ws7CWo1sMhc041PNHzgl1dkjzdzD4baS"
+  },
+  {
+    "file": "[1.20.1] SecurityCraft v1.10.1.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1Al2VTxqD_da0g7rxVNgo8PMbHXNADsgj"
+  },
+  {
+    "file": "architectury-9.2.14-forge.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1Y9DcvSWQ5s01HrP64tlKm-MsggmzS69_"
+  },
+  {
+    "file": "carryon-forge-1.20.1-2.1.2.7.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1z8LpFF2X519WLUCQOUdlPRhMuothyzYK"
+  },
+  {
+    "file": "voicechat-forge-1.20.1-2.6.6.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1rXQOgPFoeiqRddNqAGjId2zITP1iy2Og"
+  },
+  {
+    "file": "sophisticatedcore-1.20.1-1.2.107.1240.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1K5MdJ4ohG9S70JI-lgs_ogZaW5fdOtU0"
+  },
+  {
+    "file": "sophisticatedbackpacks-1.20.1-3.24.10.1404.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1wOf-M5pMQNLcimOl2eDXyucTijHqZaWl"
+  },
+  {
+    "file": "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1zyiHHb-hRgmr9fCri_5g-nciyWkxURf9"
+  },
+  {
+    "file": "oculus-mc1.20.1-1.8.0.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1C-BcP3ViJIKq6akm6nGUQZbyaBoziSBB"
+  },
+  {
+    "file": "Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1eCLd_L_yAjZlWOvL9fp4by2rGxR_cS2F"
+  },
+  {
+    "file": "citadel-2.6.2-1.20.1.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1-JoZZisauv1i4ma9a-sQrfANSBI3MIMe"
+  },
+  {
+    "file": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1B_bU5Izre7sNRWf2fVQc69Voew_kDLbz"
+  },
+  {
+    "file": "curios-forge-5.14.1+1.20.1.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1I-XsKvtZnm4lan4dNoYcTPcEZ_McXNr-"
+  },
+  {
+    "file": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1aZBv8YQAYFSiEXHAgPp3zmwtrDTpZ5fn"
+  },
+  {
+    "file": "The-Harvest-1.20.1-1.1.3.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1uMy3uSWsfVULZrTXTp5aIQyTBy1Pjxgg"
+  },
+  {
+    "file": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1SX8MKPsEsmSj5fdStUUzdc2jXAbcUl5q"
+  },
+  {
+    "file": "cloth-config-11.1.136-forge.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1pnyxelbkosvRGoHyCoJzek5GvU97qHew"
+  },
+  {
+    "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1R51Y2FGCMCxvhrJoax5VJ10HyXwL5zn4"
+  },
+  {
+    "file": "moonlight-1.20-2.16.16-forge.jar",
+    "link": "https://drive.google.com/uc?export=download&id=14IcxOjG-b9_qnb5saJrKKxRfKE68X4xA"
+  },
+  {
+    "file": "Library_of_Exile-1.20.1-2.1.5.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1fvQtFVEh8Zf1_tlHvFBEWYpmJauM7wjK"
+  },
+  {
+    "file": "modernfix-forge-5.25.1+mc1.20.1.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1mKD3hYfJT23faYYIUwWoeK5YGYTlAKu3"
+  },
+  {
+    "file": "ferritecore-6.0.1-forge.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1fmOlt_94tD8Y2pwAdlMEc0_mUanpJ5ow"
+  },
+  {
+    "file": "entityculling-forge-1.9.3-mc1.20.1.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1aFWfo93l-76lMHK1ysagxaKKnMf8L-d5"
+  },
+  {
+    "file": "ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1_CdDdRnXwTy57m4Ksk7kgH66cWr3eLnO"
+  },
+  {
+    "file": "embeddium-0.3.31+mc1.20.1.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1uJbm6mVpV56QUa7XOtysDvmp_WBjFv4i"
+  },
+  {
+    "file": "DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1674_UKDe2FBoqHjZQkikuZkiQqPAlbZX"
+  },
+  {
+    "file": "enhanced_boss_bars-1.20.1-1.0.0.jar",
+    "link": "https://drive.google.com/uc?export=download&id=17F76FRNKl4in6H9Ry-DQR46auilbTbh4"
+  },
+  {
+    "file": "ImmersiveUI-FORGE-0.3.0.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1Z_BPsazoDDNL7kqsVIlQJJIXeFjFQ_Xx"
+  },
+  {
+    "file": "Epic Witch Huts v1.1.0 (1.20+).jar",
+    "link": "https://drive.google.com/uc?export=download&id=1Vv2DTIjYvwGbR-5xMUG-LBdEcUZLCRMX"
+  },
+  {
+    "file": "endertrigon-1.20.1-1.1-all.jar",
+    "link": "https://drive.google.com/uc?export=download&id=14zCXvI0-OlNh9uZRtoGqZMsrW_gaL2GA"
+  },
+  {
+    "file": "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+    "link": "https://drive.google.com/uc?export=download&id=17_vOkkg4okYEdjwk1Y4j-jjFjgtCnryu"
+  },
+  {
+    "file": "unusualend-2.3.0-forge-1.20.1.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1BUcLHCjUhvBusv8bgDDuXp_TNjQDGoDq"
+  },
+  {
+    "file": "immersive_weathering-1.20.1-2.0.5-forge.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1sBEmAeyiT4rEGnkpM0xbhMWE1btIVONn"
+  },
+  {
+    "file": "endrem_forge-5.3.3-R-1.20.1.jar",
+    "link": "https://drive.google.com/uc?export=download&id=131JZuyuvWPGA89K6jTa3fjk_Ga1FqBUt"
+  },
+  {
+    "file": "immersive-hotbar-1.0.4-1.20-1.20.4.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1Of32Z1VtZXKRYAQS1hofg8Yl1DkB2lR9"
+  },
+  {
+    "file": "mysticsbiomes-1.20.1-3.4.2.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1pYMRAJVCHBorP_ss1p42Y4PaCri21Jgr"
+  },
+  {
+    "file": "jei-1.20.1-forge-15.20.0.112.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1CMH7Js3ytt7XnJc7LKdkCZV7OoNXaxxY"
+  },
+  {
+    "file": "Epic Villages v1.1.0 (1.20+).jar",
+    "link": "https://drive.google.com/uc?export=download&id=1gEbdBk3Mnu65AdGN8gHhXEu8LP3-z_8h"
+  },
+  {
+    "file": "particle_effects-1.20.1-Forge-1.0.1.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1Q3p6SL6wVq_pLh6O1KQR2rmWtV_QcYc8"
+  },
+  {
+    "file": "Improved.Animations-forge-1.20.1-1.0.2.jar",
+    "link": "https://drive.google.com/uc?export=download&id=1iNhb5zPlIlg8szvr_yXBdDU_vAOUb7nJ"
+  }
   ],
   "news": "https://raw.githubusercontent.com/Druiz41/mchideki/refs/heads/main/news.txt"
 }
+
 
 
 
