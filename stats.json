@@ -5,10 +5,10 @@
       "name": "Druiz41",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 1,
+      "blocksBroken": 0,
       "blocksPlaced": 0,
-      "mobsKilledTotal": 0
+      "mobsKilledTotal": 1
     }
   },
-  "last_update": 1764970471180
+  "last_update": 1764971383327
 }
