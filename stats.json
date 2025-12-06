@@ -23,7 +23,7 @@
       "name": "Ragnar",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 1422,
+      "blocksBroken": 1828,
       "blocksPlaced": 40,
       "mobsKilledTotal": 0
     },
@@ -37,5 +37,5 @@
       "mobsKilledTotal": 8
     }
   },
-  "last_update": 1764999335726
+  "last_update": 1764999635725
 }
