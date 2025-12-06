@@ -1,11 +1,20 @@
 {
   "players": {
+    "892dce97-bb2b-36a7-aef4-63363cf65856": {
+      "uuid": "892dce97-bb2b-36a7-aef4-63363cf65856",
+      "name": "x_Alee",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 188,
+      "blocksPlaced": 14,
+      "mobsKilledTotal": 0
+    },
     "142d19b7-e509-3fc5-acda-7d4b1d1720c6": {
       "uuid": "142d19b7-e509-3fc5-acda-7d4b1d1720c6",
       "name": "Hide__ki",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 0,
+      "blocksBroken": 2,
       "blocksPlaced": 113,
       "mobsKilledTotal": 1
     },
@@ -19,5 +28,5 @@
       "mobsKilledTotal": 8
     }
   },
-  "last_update": 1765055333114
+  "last_update": 1765055633115
 }
