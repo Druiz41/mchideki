@@ -14,10 +14,19 @@
       "name": "Druiz41",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 5,
-      "blocksPlaced": 0,
-      "mobsKilledTotal": 26
+      "blocksBroken": 13,
+      "blocksPlaced": 2,
+      "mobsKilledTotal": 38
+    },
+    "1da06cc1-529d-39f7-9469-0d3068069fac": {
+      "uuid": "1da06cc1-529d-39f7-9469-0d3068069fac",
+      "name": "Postpucio2",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 16,
+      "blocksPlaced": 15,
+      "mobsKilledTotal": 0
     }
   },
-  "last_update": 1765002799266
+  "last_update": 1765003099266
 }
