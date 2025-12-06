@@ -6,7 +6,7 @@
       "deaths": 1,
       "killsPlayers": 0,
       "blocksBroken": 0,
-      "blocksPlaced": 3,
+      "blocksPlaced": 45,
       "mobsKilledTotal": 1
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
@@ -19,5 +19,5 @@
       "mobsKilledTotal": 8
     }
   },
-  "last_update": 1765054733114
+  "last_update": 1765055033114
 }
