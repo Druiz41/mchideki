@@ -5,16 +5,25 @@
       "name": "iTzJoseZ",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 626,
-      "blocksPlaced": 18,
-      "mobsKilledTotal": 20
+      "blocksBroken": 627,
+      "blocksPlaced": 19,
+      "mobsKilledTotal": 27
+    },
+    "e82764a5-3c8e-3a75-99b3-63885935b6ee": {
+      "uuid": "e82764a5-3c8e-3a75-99b3-63885935b6ee",
+      "name": "Druiz41",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 2,
+      "blocksPlaced": 0,
+      "mobsKilledTotal": 0
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
       "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
       "name": "Ragnar",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 1328,
+      "blocksBroken": 1422,
       "blocksPlaced": 40,
       "mobsKilledTotal": 0
     },
@@ -28,5 +37,5 @@
       "mobsKilledTotal": 8
     }
   },
-  "last_update": 1764999035725
+  "last_update": 1764999335726
 }
