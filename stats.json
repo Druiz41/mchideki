@@ -7,15 +7,15 @@
       "killsPlayers": 0,
       "blocksBroken": 626,
       "blocksPlaced": 18,
-      "mobsKilledTotal": 15
+      "mobsKilledTotal": 20
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
       "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
       "name": "Ragnar",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 1063,
-      "blocksPlaced": 35,
+      "blocksBroken": 1328,
+      "blocksPlaced": 40,
       "mobsKilledTotal": 0
     },
     "b9937d79-c793-3c0d-93b9-22d4aebd013a": {
@@ -25,8 +25,8 @@
       "killsPlayers": 0,
       "blocksBroken": 1,
       "blocksPlaced": 0,
-      "mobsKilledTotal": 3
+      "mobsKilledTotal": 8
     }
   },
-  "last_update": 1764998735725
+  "last_update": 1764999035725
 }
