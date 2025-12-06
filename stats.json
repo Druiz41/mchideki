@@ -5,19 +5,19 @@
       "name": "iTzJoseZ",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 448,
-      "blocksPlaced": 8,
-      "mobsKilledTotal": 11
+      "blocksBroken": 618,
+      "blocksPlaced": 15,
+      "mobsKilledTotal": 15
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
       "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
       "name": "Ragnar",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 282,
-      "blocksPlaced": 8,
+      "blocksBroken": 602,
+      "blocksPlaced": 24,
       "mobsKilledTotal": 0
     }
   },
-  "last_update": 1764998135725
+  "last_update": 1764998435725
 }
