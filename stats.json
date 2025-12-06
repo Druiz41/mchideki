@@ -1,14 +1,4 @@
 {
-  "players": {
-    "e82764a5-3c8e-3a75-99b3-63885935b6ee": {
-      "uuid": "e82764a5-3c8e-3a75-99b3-63885935b6ee",
-      "name": "Druiz41",
-      "deaths": 0,
-      "killsPlayers": 0,
-      "blocksBroken": 103,
-      "blocksPlaced": 100,
-      "mobsKilledTotal": 15
-    }
-  },
-  "last_update": 1764973412542
+  "players": {},
+  "last_update": 1764991881742
 }
