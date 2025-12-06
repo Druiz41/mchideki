@@ -1,4 +1,14 @@
 {
-  "players": {},
-  "last_update": 1765045733114
+  "players": {
+    "fbea1f63-4306-3607-9665-4be232b62554": {
+      "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
+      "name": "Ragnar",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 304,
+      "blocksPlaced": 10,
+      "mobsKilledTotal": 0
+    }
+  },
+  "last_update": 1765046033114
 }
