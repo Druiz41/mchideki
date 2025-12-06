@@ -1,14 +1,23 @@
 {
   "players": {
+    "142d19b7-e509-3fc5-acda-7d4b1d1720c6": {
+      "uuid": "142d19b7-e509-3fc5-acda-7d4b1d1720c6",
+      "name": "Hide__ki",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 0,
+      "blocksPlaced": 3,
+      "mobsKilledTotal": 1
+    },
     "fbea1f63-4306-3607-9665-4be232b62554": {
       "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
       "name": "Ragnar",
-      "deaths": 0,
+      "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 3059,
-      "blocksPlaced": 1265,
-      "mobsKilledTotal": 7
+      "blocksBroken": 3062,
+      "blocksPlaced": 1269,
+      "mobsKilledTotal": 8
     }
   },
-  "last_update": 1765051733114
+  "last_update": 1765052033114
 }
