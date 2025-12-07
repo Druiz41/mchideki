@@ -30,7 +30,7 @@
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
       "uuid": "892dce97-bb2b-36a7-aef4-63363cf65856",
       "name": "x_Alee",
-      "deaths": 2,
+      "deaths": 3,
       "killsPlayers": 0,
       "blocksBroken": 707,
       "blocksPlaced": 324,
@@ -41,8 +41,8 @@
       "name": "Cecy",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 49,
-      "blocksPlaced": 36,
+      "blocksBroken": 54,
+      "blocksPlaced": 43,
       "mobsKilledTotal": 3
     },
     "24a045d1-4311-3d3e-b8bf-a6accf2183b0": {
@@ -50,10 +50,10 @@
       "name": "Melendezqq",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 144,
-      "blocksPlaced": 60,
+      "blocksBroken": 155,
+      "blocksPlaced": 74,
       "mobsKilledTotal": 6
     }
   },
-  "last_update": 1765137880868
+  "last_update": 1765138180868
 }
