@@ -14,8 +14,8 @@
       "name": "Hide__ki",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 275,
-      "blocksPlaced": 204,
+      "blocksBroken": 276,
+      "blocksPlaced": 325,
       "mobsKilledTotal": 132
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
@@ -28,5 +28,5 @@
       "mobsKilledTotal": 8
     }
   },
-  "last_update": 1765079633114
+  "last_update": 1765079933114
 }
