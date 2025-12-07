@@ -23,7 +23,7 @@
       "name": "ElYuvy",
       "deaths": 2,
       "killsPlayers": 0,
-      "blocksBroken": 427,
+      "blocksBroken": 435,
       "blocksPlaced": 113,
       "mobsKilledTotal": 81
     },
@@ -41,8 +41,8 @@
       "name": "Cecy",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 515,
-      "blocksPlaced": 261,
+      "blocksBroken": 573,
+      "blocksPlaced": 303,
       "mobsKilledTotal": 28
     },
     "24a045d1-4311-3d3e-b8bf-a6accf2183b0": {
@@ -55,5 +55,5 @@
       "mobsKilledTotal": 6
     }
   },
-  "last_update": 1765144480868
+  "last_update": 1765144780868
 }
