@@ -1,14 +1,23 @@
 {
   "players": {
+    "168fb922-274d-3073-b60c-a2ff41293a6d": {
+      "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
+      "name": "PapetoOka",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 15,
+      "blocksPlaced": 0,
+      "mobsKilledTotal": 0
+    },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
       "uuid": "892dce97-bb2b-36a7-aef4-63363cf65856",
       "name": "x_Alee",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 217,
-      "blocksPlaced": 35,
+      "blocksBroken": 252,
+      "blocksPlaced": 247,
       "mobsKilledTotal": 6
     }
   },
-  "last_update": 1765130080868
+  "last_update": 1765130380868
 }
