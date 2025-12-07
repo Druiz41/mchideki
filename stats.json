@@ -32,10 +32,19 @@
       "name": "x_Alee",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 679,
-      "blocksPlaced": 311,
-      "mobsKilledTotal": 64
+      "blocksBroken": 687,
+      "blocksPlaced": 312,
+      "mobsKilledTotal": 66
+    },
+    "24a045d1-4311-3d3e-b8bf-a6accf2183b0": {
+      "uuid": "24a045d1-4311-3d3e-b8bf-a6accf2183b0",
+      "name": "Melendezqq",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 4,
+      "blocksPlaced": 0,
+      "mobsKilledTotal": 0
     }
   },
-  "last_update": 1765135180868
+  "last_update": 1765135480871
 }
