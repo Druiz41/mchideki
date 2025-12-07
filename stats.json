@@ -15,7 +15,7 @@
       "deaths": 0,
       "killsPlayers": 0,
       "blocksBroken": 529,
-      "blocksPlaced": 300,
+      "blocksPlaced": 301,
       "mobsKilledTotal": 79
     },
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
@@ -41,7 +41,7 @@
       "name": "Cecy",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 194,
+      "blocksBroken": 224,
       "blocksPlaced": 44,
       "mobsKilledTotal": 8
     },
@@ -55,5 +55,5 @@
       "mobsKilledTotal": 6
     }
   },
-  "last_update": 1765139380869
+  "last_update": 1765139680869
 }
