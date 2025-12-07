@@ -23,8 +23,8 @@
       "name": "ElYuvy",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 32,
-      "blocksPlaced": 0,
+      "blocksBroken": 61,
+      "blocksPlaced": 2,
       "mobsKilledTotal": 52
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
@@ -32,10 +32,10 @@
       "name": "x_Alee",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 274,
-      "blocksPlaced": 249,
-      "mobsKilledTotal": 20
+      "blocksBroken": 294,
+      "blocksPlaced": 252,
+      "mobsKilledTotal": 24
     }
   },
-  "last_update": 1765132780868
+  "last_update": 1765133080868
 }
