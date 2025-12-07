@@ -15,8 +15,8 @@
       "deaths": 0,
       "killsPlayers": 0,
       "blocksBroken": 261,
-      "blocksPlaced": 154,
-      "mobsKilledTotal": 32
+      "blocksPlaced": 161,
+      "mobsKilledTotal": 33
     },
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
       "uuid": "b7052bed-f73b-3e2f-99f8-e7bb7096481c",
@@ -25,17 +25,17 @@
       "killsPlayers": 0,
       "blocksBroken": 189,
       "blocksPlaced": 28,
-      "mobsKilledTotal": 55
+      "mobsKilledTotal": 61
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
       "uuid": "892dce97-bb2b-36a7-aef4-63363cf65856",
       "name": "x_Alee",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 636,
-      "blocksPlaced": 291,
-      "mobsKilledTotal": 44
+      "blocksBroken": 671,
+      "blocksPlaced": 299,
+      "mobsKilledTotal": 58
     }
   },
-  "last_update": 1765134280868
+  "last_update": 1765134580868
 }
