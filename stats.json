@@ -41,7 +41,7 @@
       "name": "ZARDS",
       "deaths": 2,
       "killsPlayers": 0,
-      "blocksBroken": 1998,
+      "blocksBroken": 2013,
       "blocksPlaced": 845,
       "mobsKilledTotal": 171
     },
@@ -64,5 +64,5 @@
       "mobsKilledTotal": 24
     }
   },
-  "last_update": 1765266333411
+  "last_update": 1765266633411
 }
