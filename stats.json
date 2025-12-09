@@ -14,19 +14,19 @@
       "name": "ElYuvy",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 31,
-      "blocksPlaced": 15,
-      "mobsKilledTotal": 1
+      "blocksBroken": 55,
+      "blocksPlaced": 20,
+      "mobsKilledTotal": 2
     },
     "24a045d1-4311-3d3e-b8bf-a6accf2183b0": {
       "uuid": "24a045d1-4311-3d3e-b8bf-a6accf2183b0",
       "name": "Melendezqq",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 43,
-      "blocksPlaced": 8,
+      "blocksBroken": 109,
+      "blocksPlaced": 20,
       "mobsKilledTotal": 12
     }
   },
-  "last_update": 1765239593560
+  "last_update": 1765239893560
 }
