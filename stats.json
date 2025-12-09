@@ -6,7 +6,7 @@
       "deaths": 5,
       "killsPlayers": 0,
       "blocksBroken": 478,
-      "blocksPlaced": 339,
+      "blocksPlaced": 340,
       "mobsKilledTotal": 90
     },
     "e82764a5-3c8e-3a75-99b3-63885935b6ee": {
@@ -14,8 +14,8 @@
       "name": "Druiz41",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 5,
-      "blocksPlaced": 24,
+      "blocksBroken": 27,
+      "blocksPlaced": 47,
       "mobsKilledTotal": 0
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
@@ -41,9 +41,9 @@
       "name": "Melendezqq",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 1058,
-      "blocksPlaced": 586,
-      "mobsKilledTotal": 191
+      "blocksBroken": 1091,
+      "blocksPlaced": 587,
+      "mobsKilledTotal": 206
     },
     "8a738194-444b-38ea-b7d3-035ff4102b0a": {
       "uuid": "8a738194-444b-38ea-b7d3-035ff4102b0a",
@@ -55,5 +55,5 @@
       "mobsKilledTotal": 3
     }
   },
-  "last_update": 1765248033410
+  "last_update": 1765248333410
 }
