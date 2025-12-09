@@ -14,9 +14,9 @@
       "name": "x_Alee",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 832,
-      "blocksPlaced": 479,
-      "mobsKilledTotal": 31
+      "blocksBroken": 892,
+      "blocksPlaced": 863,
+      "mobsKilledTotal": 33
     },
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
       "uuid": "b7052bed-f73b-3e2f-99f8-e7bb7096481c",
@@ -41,10 +41,10 @@
       "name": "cebrita4997",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 0,
+      "blocksBroken": 28,
       "blocksPlaced": 0,
       "mobsKilledTotal": 1
     }
   },
-  "last_update": 1765244093560
+  "last_update": 1765244393561
 }
