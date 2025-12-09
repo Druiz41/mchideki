@@ -5,9 +5,18 @@
       "name": "PapetoOka",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 309,
-      "blocksPlaced": 306,
+      "blocksBroken": 310,
+      "blocksPlaced": 308,
       "mobsKilledTotal": 74
+    },
+    "892dce97-bb2b-36a7-aef4-63363cf65856": {
+      "uuid": "892dce97-bb2b-36a7-aef4-63363cf65856",
+      "name": "x_Alee",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 1,
+      "blocksPlaced": 1,
+      "mobsKilledTotal": 1
     },
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
       "uuid": "b7052bed-f73b-3e2f-99f8-e7bb7096481c",
@@ -28,5 +37,5 @@
       "mobsKilledTotal": 102
     }
   },
-  "last_update": 1765242893563
+  "last_update": 1765243193561
 }
