@@ -5,8 +5,8 @@
       "name": "PapetoOka",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 310,
-      "blocksPlaced": 308,
+      "blocksBroken": 330,
+      "blocksPlaced": 310,
       "mobsKilledTotal": 74
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
@@ -14,7 +14,7 @@
       "name": "x_Alee",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 1,
+      "blocksBroken": 816,
       "blocksPlaced": 1,
       "mobsKilledTotal": 31
     },
@@ -32,10 +32,10 @@
       "name": "Melendezqq",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 380,
+      "blocksBroken": 383,
       "blocksPlaced": 44,
-      "mobsKilledTotal": 102
+      "mobsKilledTotal": 103
     }
   },
-  "last_update": 1765243493560
+  "last_update": 1765243793561
 }
