@@ -15,7 +15,7 @@
       "deaths": 0,
       "killsPlayers": 0,
       "blocksBroken": 0,
-      "blocksPlaced": 2,
+      "blocksPlaced": 4,
       "mobsKilledTotal": 0
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
@@ -32,8 +32,8 @@
       "name": "ElYuvy",
       "deaths": 3,
       "killsPlayers": 0,
-      "blocksBroken": 283,
-      "blocksPlaced": 49,
+      "blocksBroken": 342,
+      "blocksPlaced": 52,
       "mobsKilledTotal": 14
     },
     "24a045d1-4311-3d3e-b8bf-a6accf2183b0": {
@@ -41,8 +41,8 @@
       "name": "Melendezqq",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 874,
-      "blocksPlaced": 312,
+      "blocksBroken": 885,
+      "blocksPlaced": 346,
       "mobsKilledTotal": 178
     },
     "8a738194-444b-38ea-b7d3-035ff4102b0a": {
@@ -50,10 +50,10 @@
       "name": "cebrita4997",
       "deaths": 2,
       "killsPlayers": 0,
-      "blocksBroken": 93,
-      "blocksPlaced": 11,
+      "blocksBroken": 102,
+      "blocksPlaced": 12,
       "mobsKilledTotal": 2
     }
   },
-  "last_update": 1765247133411
+  "last_update": 1765247433411
 }
