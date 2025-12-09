@@ -39,11 +39,11 @@
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
       "name": "ZARDS",
-      "deaths": 1,
+      "deaths": 2,
       "killsPlayers": 0,
-      "blocksBroken": 1878,
-      "blocksPlaced": 834,
-      "mobsKilledTotal": 162
+      "blocksBroken": 1998,
+      "blocksPlaced": 845,
+      "mobsKilledTotal": 171
     },
     "24a045d1-4311-3d3e-b8bf-a6accf2183b0": {
       "uuid": "24a045d1-4311-3d3e-b8bf-a6accf2183b0",
@@ -64,5 +64,5 @@
       "mobsKilledTotal": 24
     }
   },
-  "last_update": 1765266033411
+  "last_update": 1765266333411
 }
