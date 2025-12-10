@@ -15,7 +15,7 @@
       "deaths": 0,
       "killsPlayers": 0,
       "blocksBroken": 38,
-      "blocksPlaced": 49,
+      "blocksPlaced": 124,
       "mobsKilledTotal": 9
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
@@ -59,10 +59,10 @@
       "name": "cebrita4997",
       "deaths": 3,
       "killsPlayers": 0,
-      "blocksBroken": 1077,
-      "blocksPlaced": 267,
-      "mobsKilledTotal": 26
+      "blocksBroken": 754,
+      "blocksPlaced": 231,
+      "mobsKilledTotal": 24
     }
   },
-  "last_update": 1765341426270
+  "last_update": 1765341466290
 }
