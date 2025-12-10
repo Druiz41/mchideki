@@ -15,7 +15,7 @@
       "deaths": 0,
       "killsPlayers": 0,
       "blocksBroken": 38,
-      "blocksPlaced": 49,
+      "blocksPlaced": 124,
       "mobsKilledTotal": 9
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
@@ -36,32 +36,14 @@
       "blocksPlaced": 115,
       "mobsKilledTotal": 31
     },
-    "142d19b7-e509-3fc5-acda-7d4b1d1720c6": {
-      "uuid": "142d19b7-e509-3fc5-acda-7d4b1d1720c6",
-      "name": "Hide__ki",
-      "deaths": 0,
-      "killsPlayers": 0,
-      "blocksBroken": 930,
-      "blocksPlaced": 34,
-      "mobsKilledTotal": 69
-    },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
       "name": "ZARDS",
       "deaths": 2,
       "killsPlayers": 0,
-      "blocksBroken": 2060,
-      "blocksPlaced": 874,
-      "mobsKilledTotal": 201
-    },
-    "fbea1f63-4306-3607-9665-4be232b62554": {
-      "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
-      "name": "Ragnar",
-      "deaths": 4,
-      "killsPlayers": 0,
-      "blocksBroken": 589,
-      "blocksPlaced": 360,
-      "mobsKilledTotal": 7
+      "blocksBroken": 2013,
+      "blocksPlaced": 845,
+      "mobsKilledTotal": 171
     },
     "24a045d1-4311-3d3e-b8bf-a6accf2183b0": {
       "uuid": "24a045d1-4311-3d3e-b8bf-a6accf2183b0",
@@ -77,10 +59,10 @@
       "name": "cebrita4997",
       "deaths": 3,
       "killsPlayers": 0,
-      "blocksBroken": 1376,
-      "blocksPlaced": 543,
-      "mobsKilledTotal": 30
+      "blocksBroken": 754,
+      "blocksPlaced": 231,
+      "mobsKilledTotal": 24
     }
   },
-  "last_update": 1765344126270
+  "last_update": 1765344166334
 }
