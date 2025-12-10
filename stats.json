@@ -9,22 +9,13 @@
       "blocksPlaced": 607,
       "mobsKilledTotal": 152
     },
-    "052c90a1-e662-3184-8d51-cf475fc5ca95": {
-      "uuid": "052c90a1-e662-3184-8d51-cf475fc5ca95",
-      "name": "iTzJoseZ",
-      "deaths": 0,
-      "killsPlayers": 0,
-      "blocksBroken": 12,
-      "blocksPlaced": 6,
-      "mobsKilledTotal": 0
-    },
     "e82764a5-3c8e-3a75-99b3-63885935b6ee": {
       "uuid": "e82764a5-3c8e-3a75-99b3-63885935b6ee",
       "name": "Druiz41",
       "deaths": 0,
       "killsPlayers": 0,
       "blocksBroken": 38,
-      "blocksPlaced": 49,
+      "blocksPlaced": 124,
       "mobsKilledTotal": 9
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
@@ -45,32 +36,14 @@
       "blocksPlaced": 115,
       "mobsKilledTotal": 31
     },
-    "142d19b7-e509-3fc5-acda-7d4b1d1720c6": {
-      "uuid": "142d19b7-e509-3fc5-acda-7d4b1d1720c6",
-      "name": "Hide__ki",
-      "deaths": 0,
-      "killsPlayers": 0,
-      "blocksBroken": 1346,
-      "blocksPlaced": 86,
-      "mobsKilledTotal": 98
-    },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
       "name": "ZARDS",
-      "deaths": 3,
+      "deaths": 2,
       "killsPlayers": 0,
-      "blocksBroken": 2348,
-      "blocksPlaced": 895,
-      "mobsKilledTotal": 227
-    },
-    "fbea1f63-4306-3607-9665-4be232b62554": {
-      "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
-      "name": "Ragnar",
-      "deaths": 7,
-      "killsPlayers": 0,
-      "blocksBroken": 589,
-      "blocksPlaced": 362,
-      "mobsKilledTotal": 7
+      "blocksBroken": 2013,
+      "blocksPlaced": 845,
+      "mobsKilledTotal": 171
     },
     "24a045d1-4311-3d3e-b8bf-a6accf2183b0": {
       "uuid": "24a045d1-4311-3d3e-b8bf-a6accf2183b0",
@@ -86,10 +59,10 @@
       "name": "cebrita4997",
       "deaths": 3,
       "killsPlayers": 0,
-      "blocksBroken": 1479,
-      "blocksPlaced": 699,
-      "mobsKilledTotal": 32
+      "blocksBroken": 754,
+      "blocksPlaced": 231,
+      "mobsKilledTotal": 24
     }
   },
-  "last_update": 1765346015420
+  "last_update": 1765346026361
 }
