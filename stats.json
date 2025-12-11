@@ -23,7 +23,7 @@
       "name": "Druiz41",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 40,
+      "blocksBroken": 43,
       "blocksPlaced": 51,
       "mobsKilledTotal": 55
     },
@@ -59,9 +59,9 @@
       "name": "Lorekiller",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 1,
-      "blocksPlaced": 4,
-      "mobsKilledTotal": 3
+      "blocksBroken": 3,
+      "blocksPlaced": 6,
+      "mobsKilledTotal": 14
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
@@ -100,5 +100,5 @@
       "mobsKilledTotal": 34
     }
   },
-  "last_update": 1765415829929
+  "last_update": 1765416129929
 }
