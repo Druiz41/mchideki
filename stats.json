@@ -54,6 +54,15 @@
       "blocksPlaced": 293,
       "mobsKilledTotal": 124
     },
+    "f2b16791-87e0-372f-b1ec-c3c6218e2316": {
+      "uuid": "f2b16791-87e0-372f-b1ec-c3c6218e2316",
+      "name": "Lorekiller",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 0,
+      "blocksPlaced": 1,
+      "mobsKilledTotal": 0
+    },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
       "name": "ZARDS",
@@ -91,5 +100,5 @@
       "mobsKilledTotal": 34
     }
   },
-  "last_update": 1765414621623
+  "last_update": 1765414921623
 }
