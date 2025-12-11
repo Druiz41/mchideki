@@ -61,7 +61,7 @@
       "killsPlayers": 0,
       "blocksBroken": 1,
       "blocksPlaced": 4,
-      "mobsKilledTotal": 0
+      "mobsKilledTotal": 3
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
@@ -100,5 +100,5 @@
       "mobsKilledTotal": 34
     }
   },
-  "last_update": 1765415221623
+  "last_update": 1765415829929
 }
