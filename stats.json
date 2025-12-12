@@ -32,9 +32,9 @@
       "name": "x_Alee",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 2772,
-      "blocksPlaced": 1924,
-      "mobsKilledTotal": 50
+      "blocksBroken": 2806,
+      "blocksPlaced": 1928,
+      "mobsKilledTotal": 57
     },
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
       "uuid": "b7052bed-f73b-3e2f-99f8-e7bb7096481c",
@@ -100,5 +100,5 @@
       "mobsKilledTotal": 34
     }
   },
-  "last_update": 1765517696300
+  "last_update": 1765517996301
 }
