@@ -32,7 +32,7 @@
       "name": "x_Alee",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 2928,
+      "blocksBroken": 2931,
       "blocksPlaced": 1930,
       "mobsKilledTotal": 60
     },
@@ -68,7 +68,7 @@
       "name": "ZARDS",
       "deaths": 4,
       "killsPlayers": 0,
-      "blocksBroken": 3008,
+      "blocksBroken": 3147,
       "blocksPlaced": 921,
       "mobsKilledTotal": 287
     },
@@ -100,5 +100,5 @@
       "mobsKilledTotal": 34
     }
   },
-  "last_update": 1765519496301
+  "last_update": 1765519796300
 }
