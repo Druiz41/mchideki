@@ -32,9 +32,9 @@
       "name": "x_Alee",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 2729,
-      "blocksPlaced": 1913,
-      "mobsKilledTotal": 37
+      "blocksBroken": 2732,
+      "blocksPlaced": 1918,
+      "mobsKilledTotal": 45
     },
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
       "uuid": "b7052bed-f73b-3e2f-99f8-e7bb7096481c",
@@ -68,7 +68,7 @@
       "name": "ZARDS",
       "deaths": 4,
       "killsPlayers": 0,
-      "blocksBroken": 2443,
+      "blocksBroken": 2447,
       "blocksPlaced": 902,
       "mobsKilledTotal": 280
     },
@@ -100,5 +100,5 @@
       "mobsKilledTotal": 34
     }
   },
-  "last_update": 1765516796301
+  "last_update": 1765517096301
 }
