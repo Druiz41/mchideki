@@ -5,18 +5,18 @@
       "name": "Rodonel_0",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 197,
-      "blocksPlaced": 9,
-      "mobsKilledTotal": 1
+      "blocksBroken": 201,
+      "blocksPlaced": 22,
+      "mobsKilledTotal": 2
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
       "uuid": "892dce97-bb2b-36a7-aef4-63363cf65856",
       "name": "x_Alee",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 4987,
+      "blocksBroken": 4988,
       "blocksPlaced": 1986,
-      "mobsKilledTotal": 74
+      "mobsKilledTotal": 75
     },
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
       "uuid": "b7052bed-f73b-3e2f-99f8-e7bb7096481c",
@@ -25,7 +25,7 @@
       "killsPlayers": 0,
       "blocksBroken": 871,
       "blocksPlaced": 118,
-      "mobsKilledTotal": 131
+      "mobsKilledTotal": 178
     },
     "142d19b7-e509-3fc5-acda-7d4b1d1720c6": {
       "uuid": "142d19b7-e509-3fc5-acda-7d4b1d1720c6",
@@ -68,8 +68,8 @@
       "name": "PapetoOka",
       "deaths": 6,
       "killsPlayers": 0,
-      "blocksBroken": 2897,
-      "blocksPlaced": 1108,
+      "blocksBroken": 3020,
+      "blocksPlaced": 1210,
       "mobsKilledTotal": 192
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -106,17 +106,17 @@
       "killsPlayers": 0,
       "blocksBroken": 1693,
       "blocksPlaced": 1205,
-      "mobsKilledTotal": 1287
+      "mobsKilledTotal": 1293
     },
     "fa62140f-ac80-3de8-b527-2d2e6a6d1c2d": {
       "uuid": "fa62140f-ac80-3de8-b527-2d2e6a6d1c2d",
       "name": "pussy_calt",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 47,
-      "blocksPlaced": 26,
+      "blocksBroken": 73,
+      "blocksPlaced": 64,
       "mobsKilledTotal": 4
     }
   },
-  "last_update": 1765679705199
+  "last_update": 1765680005200
 }
