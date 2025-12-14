@@ -5,27 +5,27 @@
       "name": "Rodonel_0",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 471,
-      "blocksPlaced": 38,
-      "mobsKilledTotal": 18
+      "blocksBroken": 479,
+      "blocksPlaced": 41,
+      "mobsKilledTotal": 20
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
       "uuid": "892dce97-bb2b-36a7-aef4-63363cf65856",
       "name": "x_Alee",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 5225,
+      "blocksBroken": 5259,
       "blocksPlaced": 2338,
-      "mobsKilledTotal": 79
+      "mobsKilledTotal": 84
     },
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
       "uuid": "b7052bed-f73b-3e2f-99f8-e7bb7096481c",
       "name": "ElYuvy",
       "deaths": 3,
       "killsPlayers": 0,
-      "blocksBroken": 889,
+      "blocksBroken": 1141,
       "blocksPlaced": 122,
-      "mobsKilledTotal": 231
+      "mobsKilledTotal": 233
     },
     "142d19b7-e509-3fc5-acda-7d4b1d1720c6": {
       "uuid": "142d19b7-e509-3fc5-acda-7d4b1d1720c6",
@@ -68,8 +68,8 @@
       "name": "PapetoOka",
       "deaths": 6,
       "killsPlayers": 0,
-      "blocksBroken": 3593,
-      "blocksPlaced": 1798,
+      "blocksBroken": 3594,
+      "blocksPlaced": 1800,
       "mobsKilledTotal": 202
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -90,6 +90,15 @@
       "blocksPlaced": 503,
       "mobsKilledTotal": 55
     },
+    "48fdeecc-8269-36b1-b6ca-3898e20e6635": {
+      "uuid": "48fdeecc-8269-36b1-b6ca-3898e20e6635",
+      "name": "Cecy",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 15,
+      "blocksPlaced": 16,
+      "mobsKilledTotal": 0
+    },
     "f2b16791-87e0-372f-b1ec-c3c6218e2316": {
       "uuid": "f2b16791-87e0-372f-b1ec-c3c6218e2316",
       "name": "Lorekiller",
@@ -104,8 +113,8 @@
       "name": "Melendezqq",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 1740,
-      "blocksPlaced": 1230,
+      "blocksBroken": 1781,
+      "blocksPlaced": 1232,
       "mobsKilledTotal": 1436
     },
     "fa62140f-ac80-3de8-b527-2d2e6a6d1c2d": {
@@ -113,10 +122,10 @@
       "name": "pussy_calt",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 154,
+      "blocksBroken": 203,
       "blocksPlaced": 65,
-      "mobsKilledTotal": 7
+      "mobsKilledTotal": 9
     }
   },
-  "last_update": 1765681505199
+  "last_update": 1765681805199
 }
