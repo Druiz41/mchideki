@@ -23,9 +23,9 @@
       "name": "ElYuvy",
       "deaths": 3,
       "killsPlayers": 0,
-      "blocksBroken": 3446,
-      "blocksPlaced": 175,
-      "mobsKilledTotal": 282
+      "blocksBroken": 3452,
+      "blocksPlaced": 176,
+      "mobsKilledTotal": 285
     },
     "142d19b7-e509-3fc5-acda-7d4b1d1720c6": {
       "uuid": "142d19b7-e509-3fc5-acda-7d4b1d1720c6",
@@ -68,8 +68,8 @@
       "name": "PapetoOka",
       "deaths": 6,
       "killsPlayers": 0,
-      "blocksBroken": 3839,
-      "blocksPlaced": 3355,
+      "blocksBroken": 3849,
+      "blocksPlaced": 3360,
       "mobsKilledTotal": 249
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -95,9 +95,9 @@
       "name": "Cecy",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 1205,
-      "blocksPlaced": 837,
-      "mobsKilledTotal": 11
+      "blocksBroken": 1232,
+      "blocksPlaced": 860,
+      "mobsKilledTotal": 12
     },
     "f2b16791-87e0-372f-b1ec-c3c6218e2316": {
       "uuid": "f2b16791-87e0-372f-b1ec-c3c6218e2316",
@@ -127,5 +127,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765687805199
+  "last_update": 1765688105199
 }
