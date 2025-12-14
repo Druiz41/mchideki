@@ -5,8 +5,8 @@
       "name": "Rodonel_0",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 485,
-      "blocksPlaced": 42,
+      "blocksBroken": 547,
+      "blocksPlaced": 61,
       "mobsKilledTotal": 23
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
@@ -68,8 +68,8 @@
       "name": "PapetoOka",
       "deaths": 6,
       "killsPlayers": 0,
-      "blocksBroken": 3608,
-      "blocksPlaced": 1975,
+      "blocksBroken": 3614,
+      "blocksPlaced": 2018,
       "mobsKilledTotal": 205
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -95,8 +95,8 @@
       "name": "Cecy",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 39,
-      "blocksPlaced": 38,
+      "blocksBroken": 53,
+      "blocksPlaced": 58,
       "mobsKilledTotal": 0
     },
     "f2b16791-87e0-372f-b1ec-c3c6218e2316": {
@@ -122,10 +122,10 @@
       "name": "pussy_calt",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 203,
+      "blocksBroken": 206,
       "blocksPlaced": 65,
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765682105199
+  "last_update": 1765682405200
 }
