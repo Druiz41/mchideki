@@ -5,27 +5,27 @@
       "name": "Rodonel_0",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 479,
-      "blocksPlaced": 41,
-      "mobsKilledTotal": 20
+      "blocksBroken": 485,
+      "blocksPlaced": 42,
+      "mobsKilledTotal": 23
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
       "uuid": "892dce97-bb2b-36a7-aef4-63363cf65856",
       "name": "x_Alee",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 5259,
+      "blocksBroken": 5263,
       "blocksPlaced": 2338,
-      "mobsKilledTotal": 84
+      "mobsKilledTotal": 87
     },
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
       "uuid": "b7052bed-f73b-3e2f-99f8-e7bb7096481c",
       "name": "ElYuvy",
       "deaths": 3,
       "killsPlayers": 0,
-      "blocksBroken": 1141,
+      "blocksBroken": 1282,
       "blocksPlaced": 122,
-      "mobsKilledTotal": 233
+      "mobsKilledTotal": 239
     },
     "142d19b7-e509-3fc5-acda-7d4b1d1720c6": {
       "uuid": "142d19b7-e509-3fc5-acda-7d4b1d1720c6",
@@ -68,9 +68,9 @@
       "name": "PapetoOka",
       "deaths": 6,
       "killsPlayers": 0,
-      "blocksBroken": 3594,
-      "blocksPlaced": 1800,
-      "mobsKilledTotal": 202
+      "blocksBroken": 3608,
+      "blocksPlaced": 1975,
+      "mobsKilledTotal": 205
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
       "uuid": "052c90a1-e662-3184-8d51-cf475fc5ca95",
@@ -95,8 +95,8 @@
       "name": "Cecy",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 15,
-      "blocksPlaced": 16,
+      "blocksBroken": 39,
+      "blocksPlaced": 38,
       "mobsKilledTotal": 0
     },
     "f2b16791-87e0-372f-b1ec-c3c6218e2316": {
@@ -113,9 +113,9 @@
       "name": "Melendezqq",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 1781,
-      "blocksPlaced": 1232,
-      "mobsKilledTotal": 1436
+      "blocksBroken": 1785,
+      "blocksPlaced": 1236,
+      "mobsKilledTotal": 1500
     },
     "fa62140f-ac80-3de8-b527-2d2e6a6d1c2d": {
       "uuid": "fa62140f-ac80-3de8-b527-2d2e6a6d1c2d",
@@ -124,8 +124,8 @@
       "killsPlayers": 0,
       "blocksBroken": 203,
       "blocksPlaced": 65,
-      "mobsKilledTotal": 9
+      "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765681805199
+  "last_update": 1765682105199
 }
