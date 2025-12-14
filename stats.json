@@ -9,33 +9,6 @@
       "blocksPlaced": 1,
       "mobsKilledTotal": 0
     },
-    "168fb922-274d-3073-b60c-a2ff41293a6d": {
-      "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
-      "name": "PapetoOka",
-      "deaths": 6,
-      "killsPlayers": 0,
-      "blocksBroken": 2848,
-      "blocksPlaced": 628,
-      "mobsKilledTotal": 189
-    },
-    "052c90a1-e662-3184-8d51-cf475fc5ca95": {
-      "uuid": "052c90a1-e662-3184-8d51-cf475fc5ca95",
-      "name": "iTzJoseZ",
-      "deaths": 0,
-      "killsPlayers": 1,
-      "blocksBroken": 36,
-      "blocksPlaced": 46,
-      "mobsKilledTotal": 81
-    },
-    "e82764a5-3c8e-3a75-99b3-63885935b6ee": {
-      "uuid": "e82764a5-3c8e-3a75-99b3-63885935b6ee",
-      "name": "Druiz41",
-      "deaths": 0,
-      "killsPlayers": 0,
-      "blocksBroken": 316,
-      "blocksPlaced": 503,
-      "mobsKilledTotal": 55
-    },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
       "uuid": "892dce97-bb2b-36a7-aef4-63363cf65856",
       "name": "x_Alee",
@@ -50,9 +23,9 @@
       "name": "ElYuvy",
       "deaths": 3,
       "killsPlayers": 0,
-      "blocksBroken": 868,
+      "blocksBroken": 871,
       "blocksPlaced": 117,
-      "mobsKilledTotal": 31
+      "mobsKilledTotal": 38
     },
     "142d19b7-e509-3fc5-acda-7d4b1d1720c6": {
       "uuid": "142d19b7-e509-3fc5-acda-7d4b1d1720c6",
@@ -62,15 +35,6 @@
       "blocksBroken": 1572,
       "blocksPlaced": 293,
       "mobsKilledTotal": 124
-    },
-    "f2b16791-87e0-372f-b1ec-c3c6218e2316": {
-      "uuid": "f2b16791-87e0-372f-b1ec-c3c6218e2316",
-      "name": "Lorekiller",
-      "deaths": 0,
-      "killsPlayers": 0,
-      "blocksBroken": 83,
-      "blocksPlaced": 6,
-      "mobsKilledTotal": 21
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
@@ -90,15 +54,6 @@
       "blocksPlaced": 362,
       "mobsKilledTotal": 7
     },
-    "24a045d1-4311-3d3e-b8bf-a6accf2183b0": {
-      "uuid": "24a045d1-4311-3d3e-b8bf-a6accf2183b0",
-      "name": "Melendezqq",
-      "deaths": 1,
-      "killsPlayers": 0,
-      "blocksBroken": 1653,
-      "blocksPlaced": 1174,
-      "mobsKilledTotal": 1125
-    },
     "8a738194-444b-38ea-b7d3-035ff4102b0a": {
       "uuid": "8a738194-444b-38ea-b7d3-035ff4102b0a",
       "name": "cebrita4997",
@@ -107,7 +62,61 @@
       "blocksBroken": 1494,
       "blocksPlaced": 735,
       "mobsKilledTotal": 34
+    },
+    "168fb922-274d-3073-b60c-a2ff41293a6d": {
+      "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
+      "name": "PapetoOka",
+      "deaths": 6,
+      "killsPlayers": 0,
+      "blocksBroken": 2848,
+      "blocksPlaced": 637,
+      "mobsKilledTotal": 190
+    },
+    "052c90a1-e662-3184-8d51-cf475fc5ca95": {
+      "uuid": "052c90a1-e662-3184-8d51-cf475fc5ca95",
+      "name": "iTzJoseZ",
+      "deaths": 0,
+      "killsPlayers": 1,
+      "blocksBroken": 36,
+      "blocksPlaced": 46,
+      "mobsKilledTotal": 81
+    },
+    "e82764a5-3c8e-3a75-99b3-63885935b6ee": {
+      "uuid": "e82764a5-3c8e-3a75-99b3-63885935b6ee",
+      "name": "Druiz41",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 316,
+      "blocksPlaced": 503,
+      "mobsKilledTotal": 55
+    },
+    "f2b16791-87e0-372f-b1ec-c3c6218e2316": {
+      "uuid": "f2b16791-87e0-372f-b1ec-c3c6218e2316",
+      "name": "Lorekiller",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 83,
+      "blocksPlaced": 6,
+      "mobsKilledTotal": 21
+    },
+    "24a045d1-4311-3d3e-b8bf-a6accf2183b0": {
+      "uuid": "24a045d1-4311-3d3e-b8bf-a6accf2183b0",
+      "name": "Melendezqq",
+      "deaths": 1,
+      "killsPlayers": 0,
+      "blocksBroken": 1664,
+      "blocksPlaced": 1175,
+      "mobsKilledTotal": 1179
+    },
+    "fa62140f-ac80-3de8-b527-2d2e6a6d1c2d": {
+      "uuid": "fa62140f-ac80-3de8-b527-2d2e6a6d1c2d",
+      "name": "pussy_calt",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 2,
+      "blocksPlaced": 0,
+      "mobsKilledTotal": 0
     }
   },
-  "last_update": 1765678205201
+  "last_update": 1765678505199
 }
