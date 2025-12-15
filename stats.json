@@ -14,9 +14,9 @@
       "name": "x_Alee",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 5366,
-      "blocksPlaced": 2397,
-      "mobsKilledTotal": 100
+      "blocksBroken": 5371,
+      "blocksPlaced": 2409,
+      "mobsKilledTotal": 102
     },
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
       "uuid": "b7052bed-f73b-3e2f-99f8-e7bb7096481c",
@@ -32,18 +32,18 @@
       "name": "Hide__ki",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 2475,
-      "blocksPlaced": 398,
-      "mobsKilledTotal": 166
+      "blocksBroken": 2476,
+      "blocksPlaced": 402,
+      "mobsKilledTotal": 187
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
       "name": "ZARDS",
       "deaths": 6,
       "killsPlayers": 0,
-      "blocksBroken": 4301,
-      "blocksPlaced": 1043,
-      "mobsKilledTotal": 297
+      "blocksBroken": 4306,
+      "blocksPlaced": 1045,
+      "mobsKilledTotal": 305
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
       "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
@@ -68,8 +68,8 @@
       "name": "PapetoOka",
       "deaths": 12,
       "killsPlayers": 0,
-      "blocksBroken": 4973,
-      "blocksPlaced": 4440,
+      "blocksBroken": 4980,
+      "blocksPlaced": 4711,
       "mobsKilledTotal": 478
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -127,5 +127,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765772276147
+  "last_update": 1765772576147
 }
