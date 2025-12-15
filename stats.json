@@ -78,7 +78,7 @@
       "deaths": 12,
       "killsPlayers": 0,
       "blocksBroken": 8199,
-      "blocksPlaced": 7282,
+      "blocksPlaced": 7290,
       "mobsKilledTotal": 663
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -86,8 +86,8 @@
       "name": "iTzJoseZ",
       "deaths": 0,
       "killsPlayers": 1,
-      "blocksBroken": 102,
-      "blocksPlaced": 60,
+      "blocksBroken": 104,
+      "blocksPlaced": 61,
       "mobsKilledTotal": 150
     },
     "e82764a5-3c8e-3a75-99b3-63885935b6ee": {
@@ -136,5 +136,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765802576147
+  "last_update": 1765802876147
 }
