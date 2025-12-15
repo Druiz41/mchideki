@@ -34,7 +34,7 @@
       "killsPlayers": 0,
       "blocksBroken": 2475,
       "blocksPlaced": 398,
-      "mobsKilledTotal": 160
+      "mobsKilledTotal": 166
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
@@ -43,7 +43,7 @@
       "killsPlayers": 0,
       "blocksBroken": 4301,
       "blocksPlaced": 1043,
-      "mobsKilledTotal": 296
+      "mobsKilledTotal": 297
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
       "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
@@ -69,7 +69,7 @@
       "deaths": 12,
       "killsPlayers": 0,
       "blocksBroken": 4973,
-      "blocksPlaced": 4430,
+      "blocksPlaced": 4440,
       "mobsKilledTotal": 478
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -127,5 +127,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765771976147
+  "last_update": 1765772276147
 }
