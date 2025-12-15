@@ -32,9 +32,9 @@
       "name": "Hide__ki",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 2531,
+      "blocksBroken": 2532,
       "blocksPlaced": 402,
-      "mobsKilledTotal": 212
+      "mobsKilledTotal": 213
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
@@ -68,9 +68,9 @@
       "name": "PapetoOka",
       "deaths": 12,
       "killsPlayers": 0,
-      "blocksBroken": 5119,
-      "blocksPlaced": 4829,
-      "mobsKilledTotal": 478
+      "blocksBroken": 5123,
+      "blocksPlaced": 4831,
+      "mobsKilledTotal": 495
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
       "uuid": "052c90a1-e662-3184-8d51-cf475fc5ca95",
@@ -127,5 +127,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765773476147
+  "last_update": 1765773776148
 }
