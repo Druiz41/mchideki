@@ -68,8 +68,8 @@
       "name": "SoyBenji",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 7,
-      "blocksPlaced": 2,
+      "blocksBroken": 9,
+      "blocksPlaced": 3,
       "mobsKilledTotal": 0
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
@@ -77,8 +77,8 @@
       "name": "PapetoOka",
       "deaths": 12,
       "killsPlayers": 0,
-      "blocksBroken": 5570,
-      "blocksPlaced": 5819,
+      "blocksBroken": 5614,
+      "blocksPlaced": 5860,
       "mobsKilledTotal": 497
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -136,5 +136,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765777376147
+  "last_update": 1765777676147
 }
