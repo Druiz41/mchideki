@@ -23,7 +23,7 @@
       "name": "ElYuvy",
       "deaths": 5,
       "killsPlayers": 0,
-      "blocksBroken": 4291,
+      "blocksBroken": 4319,
       "blocksPlaced": 412,
       "mobsKilledTotal": 449
     },
@@ -68,8 +68,8 @@
       "name": "PapetoOka",
       "deaths": 12,
       "killsPlayers": 0,
-      "blocksBroken": 4720,
-      "blocksPlaced": 3825,
+      "blocksBroken": 4723,
+      "blocksPlaced": 3900,
       "mobsKilledTotal": 335
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -127,5 +127,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765768076147
+  "last_update": 1765768376147
 }
