@@ -15,7 +15,7 @@
       "deaths": 1,
       "killsPlayers": 0,
       "blocksBroken": 5366,
-      "blocksPlaced": 2395,
+      "blocksPlaced": 2396,
       "mobsKilledTotal": 100
     },
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
@@ -32,8 +32,8 @@
       "name": "Hide__ki",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 2422,
-      "blocksPlaced": 318,
+      "blocksBroken": 2423,
+      "blocksPlaced": 326,
       "mobsKilledTotal": 143
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
@@ -41,8 +41,8 @@
       "name": "ZARDS",
       "deaths": 6,
       "killsPlayers": 0,
-      "blocksBroken": 4284,
-      "blocksPlaced": 1012,
+      "blocksBroken": 4296,
+      "blocksPlaced": 1030,
       "mobsKilledTotal": 291
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
@@ -68,8 +68,8 @@
       "name": "PapetoOka",
       "deaths": 12,
       "killsPlayers": 0,
-      "blocksBroken": 4821,
-      "blocksPlaced": 4157,
+      "blocksBroken": 4910,
+      "blocksPlaced": 4181,
       "mobsKilledTotal": 478
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -127,5 +127,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765771076147
+  "last_update": 1765771376147
 }
