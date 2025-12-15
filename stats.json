@@ -77,7 +77,7 @@
       "name": "PapetoOka",
       "deaths": 12,
       "killsPlayers": 0,
-      "blocksBroken": 7972,
+      "blocksBroken": 7973,
       "blocksPlaced": 6722,
       "mobsKilledTotal": 656
     },
@@ -86,7 +86,7 @@
       "name": "iTzJoseZ",
       "deaths": 0,
       "killsPlayers": 1,
-      "blocksBroken": 62,
+      "blocksBroken": 63,
       "blocksPlaced": 48,
       "mobsKilledTotal": 104
     },
@@ -136,5 +136,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765796576147
+  "last_update": 1765796876148
 }
