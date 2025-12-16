@@ -68,7 +68,7 @@
       "name": "srta_maddy",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 6,
+      "blocksBroken": 9,
       "blocksPlaced": 1,
       "mobsKilledTotal": 0
     },
@@ -131,7 +131,7 @@
       "name": "Melendezqq",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 2807,
+      "blocksBroken": 2871,
       "blocksPlaced": 1622,
       "mobsKilledTotal": 2810
     },
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765852044583
+  "last_update": 1765852344583
 }
