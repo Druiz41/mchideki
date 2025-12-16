@@ -75,20 +75,20 @@
     "1053251f-312e-36b4-ae2b-be8e45ba01f8": {
       "uuid": "1053251f-312e-36b4-ae2b-be8e45ba01f8",
       "name": "SoyBenji",
-      "deaths": 0,
+      "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 498,
+      "blocksBroken": 502,
       "blocksPlaced": 491,
-      "mobsKilledTotal": 420
+      "mobsKilledTotal": 421
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
       "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
       "name": "PapetoOka",
       "deaths": 12,
       "killsPlayers": 0,
-      "blocksBroken": 8373,
+      "blocksBroken": 8374,
       "blocksPlaced": 7400,
-      "mobsKilledTotal": 776
+      "mobsKilledTotal": 778
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
       "uuid": "052c90a1-e662-3184-8d51-cf475fc5ca95",
@@ -131,7 +131,7 @@
       "name": "Melendezqq",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 2991,
+      "blocksBroken": 2992,
       "blocksPlaced": 1623,
       "mobsKilledTotal": 2810
     },
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765855944584
+  "last_update": 1765856244583
 }
