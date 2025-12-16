@@ -59,9 +59,9 @@
       "name": "cebrita4997",
       "deaths": 3,
       "killsPlayers": 0,
-      "blocksBroken": 1494,
-      "blocksPlaced": 735,
-      "mobsKilledTotal": 34
+      "blocksBroken": 1519,
+      "blocksPlaced": 765,
+      "mobsKilledTotal": 36
     },
     "2a3eed23-f1b5-360e-90b0-03a5fb94fa1b": {
       "uuid": "2a3eed23-f1b5-360e-90b0-03a5fb94fa1b",
@@ -79,7 +79,7 @@
       "killsPlayers": 0,
       "blocksBroken": 1050,
       "blocksPlaced": 1064,
-      "mobsKilledTotal": 694
+      "mobsKilledTotal": 739
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
       "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765923129949
+  "last_update": 1765923429949
 }
