@@ -12,11 +12,11 @@
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
       "uuid": "892dce97-bb2b-36a7-aef4-63363cf65856",
       "name": "x_Alee",
-      "deaths": 1,
+      "deaths": 2,
       "killsPlayers": 0,
       "blocksBroken": 5410,
       "blocksPlaced": 2422,
-      "mobsKilledTotal": 114
+      "mobsKilledTotal": 115
     },
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
       "uuid": "b7052bed-f73b-3e2f-99f8-e7bb7096481c",
@@ -79,16 +79,16 @@
       "killsPlayers": 0,
       "blocksBroken": 505,
       "blocksPlaced": 495,
-      "mobsKilledTotal": 434
+      "mobsKilledTotal": 456
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
       "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
       "name": "PapetoOka",
       "deaths": 12,
       "killsPlayers": 0,
-      "blocksBroken": 8420,
-      "blocksPlaced": 7424,
-      "mobsKilledTotal": 829
+      "blocksBroken": 8433,
+      "blocksPlaced": 7437,
+      "mobsKilledTotal": 850
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
       "uuid": "052c90a1-e662-3184-8d51-cf475fc5ca95",
@@ -131,9 +131,9 @@
       "name": "Melendezqq",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 3029,
+      "blocksBroken": 3030,
       "blocksPlaced": 1625,
-      "mobsKilledTotal": 2832
+      "mobsKilledTotal": 2843
     },
     "fa62140f-ac80-3de8-b527-2d2e6a6d1c2d": {
       "uuid": "fa62140f-ac80-3de8-b527-2d2e6a6d1c2d",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765858044584
+  "last_update": 1765858344583
 }
