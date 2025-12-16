@@ -59,7 +59,7 @@
       "name": "cebrita4997",
       "deaths": 3,
       "killsPlayers": 0,
-      "blocksBroken": 1820,
+      "blocksBroken": 1826,
       "blocksPlaced": 806,
       "mobsKilledTotal": 40
     },
@@ -86,8 +86,8 @@
       "name": "PapetoOka",
       "deaths": 12,
       "killsPlayers": 0,
-      "blocksBroken": 8500,
-      "blocksPlaced": 7500,
+      "blocksBroken": 8538,
+      "blocksPlaced": 7508,
       "mobsKilledTotal": 969
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765927629949
+  "last_update": 1765927929949
 }
