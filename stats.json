@@ -88,7 +88,7 @@
       "killsPlayers": 0,
       "blocksBroken": 8598,
       "blocksPlaced": 7533,
-      "mobsKilledTotal": 1075
+      "mobsKilledTotal": 1146
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
       "uuid": "052c90a1-e662-3184-8d51-cf475fc5ca95",
@@ -129,9 +129,9 @@
     "24a045d1-4311-3d3e-b8bf-a6accf2183b0": {
       "uuid": "24a045d1-4311-3d3e-b8bf-a6accf2183b0",
       "name": "Melendezqq",
-      "deaths": 4,
+      "deaths": 5,
       "killsPlayers": 0,
-      "blocksBroken": 3194,
+      "blocksBroken": 3208,
       "blocksPlaced": 1652,
       "mobsKilledTotal": 2887
     },
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765933629949
+  "last_update": 1765933929950
 }
