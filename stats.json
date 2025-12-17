@@ -41,9 +41,9 @@
       "name": "ZARDS",
       "deaths": 6,
       "killsPlayers": 0,
-      "blocksBroken": 4531,
-      "blocksPlaced": 1110,
-      "mobsKilledTotal": 340
+      "blocksBroken": 4544,
+      "blocksPlaced": 1112,
+      "mobsKilledTotal": 346
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
       "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
@@ -86,8 +86,8 @@
       "name": "PapetoOka",
       "deaths": 12,
       "killsPlayers": 0,
-      "blocksBroken": 8645,
-      "blocksPlaced": 7541,
+      "blocksBroken": 8647,
+      "blocksPlaced": 7544,
       "mobsKilledTotal": 1428
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765942329949
+  "last_update": 1765942629949
 }
