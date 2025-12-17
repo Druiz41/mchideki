@@ -41,9 +41,9 @@
       "name": "ZARDS",
       "deaths": 6,
       "killsPlayers": 0,
-      "blocksBroken": 4508,
-      "blocksPlaced": 1104,
-      "mobsKilledTotal": 335
+      "blocksBroken": 4531,
+      "blocksPlaced": 1110,
+      "mobsKilledTotal": 340
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
       "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765942029949
+  "last_update": 1765942329949
 }
