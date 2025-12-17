@@ -23,7 +23,7 @@
       "name": "ElYuvy",
       "deaths": 6,
       "killsPlayers": 0,
-      "blocksBroken": 4611,
+      "blocksBroken": 4669,
       "blocksPlaced": 483,
       "mobsKilledTotal": 691
     },
@@ -39,11 +39,11 @@
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
       "name": "ZARDS",
-      "deaths": 6,
+      "deaths": 7,
       "killsPlayers": 0,
-      "blocksBroken": 4761,
-      "blocksPlaced": 1121,
-      "mobsKilledTotal": 359
+      "blocksBroken": 4934,
+      "blocksPlaced": 1132,
+      "mobsKilledTotal": 362
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
       "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
@@ -87,7 +87,7 @@
       "deaths": 12,
       "killsPlayers": 0,
       "blocksBroken": 8647,
-      "blocksPlaced": 7544,
+      "blocksPlaced": 7546,
       "mobsKilledTotal": 1428
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765942929949
+  "last_update": 1765943229949
 }
