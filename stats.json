@@ -131,9 +131,9 @@
       "name": "Melendezqq",
       "deaths": 2,
       "killsPlayers": 0,
-      "blocksBroken": 3055,
-      "blocksPlaced": 1628,
-      "mobsKilledTotal": 2853
+      "blocksBroken": 3111,
+      "blocksPlaced": 1635,
+      "mobsKilledTotal": 2862
     },
     "fa62140f-ac80-3de8-b527-2d2e6a6d1c2d": {
       "uuid": "fa62140f-ac80-3de8-b527-2d2e6a6d1c2d",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1765932129949
+  "last_update": 1765932429949
 }
