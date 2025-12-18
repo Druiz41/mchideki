@@ -32,18 +32,18 @@
       "name": "Hide__ki",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 3375,
+      "blocksBroken": 3391,
       "blocksPlaced": 427,
-      "mobsKilledTotal": 298
+      "mobsKilledTotal": 302
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
       "name": "ZARDS",
       "deaths": 14,
       "killsPlayers": 0,
-      "blocksBroken": 5253,
-      "blocksPlaced": 1204,
-      "mobsKilledTotal": 395
+      "blocksBroken": 5306,
+      "blocksPlaced": 1214,
+      "mobsKilledTotal": 396
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
       "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766034323687
+  "last_update": 1766034623687
 }
