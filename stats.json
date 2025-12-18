@@ -25,25 +25,25 @@
       "killsPlayers": 0,
       "blocksBroken": 4851,
       "blocksPlaced": 497,
-      "mobsKilledTotal": 724
+      "mobsKilledTotal": 725
     },
     "142d19b7-e509-3fc5-acda-7d4b1d1720c6": {
       "uuid": "142d19b7-e509-3fc5-acda-7d4b1d1720c6",
       "name": "Hide__ki",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 3278,
+      "blocksBroken": 3347,
       "blocksPlaced": 427,
-      "mobsKilledTotal": 281
+      "mobsKilledTotal": 288
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
       "name": "ZARDS",
       "deaths": 14,
       "killsPlayers": 0,
-      "blocksBroken": 5217,
-      "blocksPlaced": 1185,
-      "mobsKilledTotal": 392
+      "blocksBroken": 5221,
+      "blocksPlaced": 1186,
+      "mobsKilledTotal": 395
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
       "uuid": "fbea1f63-4306-3607-9665-4be232b62554",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766033723687
+  "last_update": 1766034023909
 }
