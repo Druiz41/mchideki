@@ -41,8 +41,8 @@
       "name": "ZARDS",
       "deaths": 14,
       "killsPlayers": 0,
-      "blocksBroken": 5162,
-      "blocksPlaced": 1139,
+      "blocksBroken": 5165,
+      "blocksPlaced": 1142,
       "mobsKilledTotal": 362
     },
     "fbea1f63-4306-3607-9665-4be232b62554": {
@@ -77,16 +77,16 @@
       "name": "SoyBenji",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 1127,
-      "blocksPlaced": 1133,
-      "mobsKilledTotal": 929
+      "blocksBroken": 1131,
+      "blocksPlaced": 1137,
+      "mobsKilledTotal": 946
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
       "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
       "name": "PapetoOka",
       "deaths": 13,
       "killsPlayers": 0,
-      "blocksBroken": 8863,
+      "blocksBroken": 8864,
       "blocksPlaced": 7567,
       "mobsKilledTotal": 1475
     },
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766029949229
+  "last_update": 1766030249229
 }
