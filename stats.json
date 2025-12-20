@@ -32,8 +32,8 @@
       "name": "Hide__ki",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 4830,
-      "blocksPlaced": 1637,
+      "blocksBroken": 4833,
+      "blocksPlaced": 1707,
       "mobsKilledTotal": 372
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
@@ -77,8 +77,8 @@
       "name": "SoyBenji",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 1952,
-      "blocksPlaced": 1549,
+      "blocksBroken": 1956,
+      "blocksPlaced": 1555,
       "mobsKilledTotal": 1342
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766204964215
+  "last_update": 1766205264215
 }
