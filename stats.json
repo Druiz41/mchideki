@@ -16,7 +16,7 @@
       "killsPlayers": 0,
       "blocksBroken": 6960,
       "blocksPlaced": 2490,
-      "mobsKilledTotal": 115
+      "mobsKilledTotal": 117
     },
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
       "uuid": "b7052bed-f73b-3e2f-99f8-e7bb7096481c",
@@ -34,7 +34,7 @@
       "killsPlayers": 0,
       "blocksBroken": 6479,
       "blocksPlaced": 3225,
-      "mobsKilledTotal": 403
+      "mobsKilledTotal": 407
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
@@ -79,16 +79,16 @@
       "killsPlayers": 0,
       "blocksBroken": 6902,
       "blocksPlaced": 2803,
-      "mobsKilledTotal": 2254
+      "mobsKilledTotal": 2264
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
       "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
       "name": "PapetoOka",
       "deaths": 14,
       "killsPlayers": 0,
-      "blocksBroken": 12096,
-      "blocksPlaced": 10281,
-      "mobsKilledTotal": 2077
+      "blocksBroken": 12102,
+      "blocksPlaced": 10288,
+      "mobsKilledTotal": 2082
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
       "uuid": "052c90a1-e662-3184-8d51-cf475fc5ca95",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766338176654
+  "last_update": 1766338476656
 }
