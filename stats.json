@@ -86,7 +86,7 @@
       "name": "PapetoOka",
       "deaths": 13,
       "killsPlayers": 0,
-      "blocksBroken": 10594,
+      "blocksBroken": 10598,
       "blocksPlaced": 9944,
       "mobsKilledTotal": 1697
     },
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766304478681
+  "last_update": 1766304778680
 }
