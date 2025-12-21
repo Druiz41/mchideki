@@ -23,16 +23,16 @@
       "name": "ElYuvy",
       "deaths": 9,
       "killsPlayers": 0,
-      "blocksBroken": 5526,
+      "blocksBroken": 5527,
       "blocksPlaced": 559,
-      "mobsKilledTotal": 916
+      "mobsKilledTotal": 933
     },
     "142d19b7-e509-3fc5-acda-7d4b1d1720c6": {
       "uuid": "142d19b7-e509-3fc5-acda-7d4b1d1720c6",
       "name": "Hide__ki",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 4867,
+      "blocksBroken": 5081,
       "blocksPlaced": 1712,
       "mobsKilledTotal": 383
     },
@@ -79,7 +79,7 @@
       "killsPlayers": 0,
       "blocksBroken": 6472,
       "blocksPlaced": 2722,
-      "mobsKilledTotal": 2175
+      "mobsKilledTotal": 2186
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
       "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766332776654
+  "last_update": 1766333076654
 }
