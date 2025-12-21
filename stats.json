@@ -23,7 +23,7 @@
       "name": "ElYuvy",
       "deaths": 9,
       "killsPlayers": 0,
-      "blocksBroken": 5828,
+      "blocksBroken": 5829,
       "blocksPlaced": 689,
       "mobsKilledTotal": 1015
     },
@@ -77,9 +77,9 @@
       "name": "SoyBenji",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 7850,
-      "blocksPlaced": 2873,
-      "mobsKilledTotal": 2333
+      "blocksBroken": 7853,
+      "blocksPlaced": 2905,
+      "mobsKilledTotal": 2348
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
       "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766347567054
+  "last_update": 1766347867054
 }
