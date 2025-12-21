@@ -23,9 +23,9 @@
       "name": "ElYuvy",
       "deaths": 9,
       "killsPlayers": 0,
-      "blocksBroken": 5956,
+      "blocksBroken": 5957,
       "blocksPlaced": 697,
-      "mobsKilledTotal": 1024
+      "mobsKilledTotal": 1027
     },
     "142d19b7-e509-3fc5-acda-7d4b1d1720c6": {
       "uuid": "142d19b7-e509-3fc5-acda-7d4b1d1720c6",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766349967054
+  "last_update": 1766350267054
 }
