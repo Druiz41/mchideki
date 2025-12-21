@@ -77,8 +77,8 @@
       "name": "SoyBenji",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 3296,
-      "blocksPlaced": 2435,
+      "blocksBroken": 3345,
+      "blocksPlaced": 2484,
       "mobsKilledTotal": 2009
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
@@ -87,15 +87,15 @@
       "deaths": 13,
       "killsPlayers": 0,
       "blocksBroken": 10602,
-      "blocksPlaced": 9954,
-      "mobsKilledTotal": 1704
+      "blocksPlaced": 9958,
+      "mobsKilledTotal": 1711
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
       "uuid": "052c90a1-e662-3184-8d51-cf475fc5ca95",
       "name": "iTzJoseZ",
       "deaths": 0,
       "killsPlayers": 1,
-      "blocksBroken": 104,
+      "blocksBroken": 112,
       "blocksPlaced": 61,
       "mobsKilledTotal": 150
     },
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766305378681
+  "last_update": 1766305678691
 }
