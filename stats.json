@@ -21,9 +21,9 @@
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
       "uuid": "b7052bed-f73b-3e2f-99f8-e7bb7096481c",
       "name": "ElYuvy",
-      "deaths": 10,
+      "deaths": 11,
       "killsPlayers": 0,
-      "blocksBroken": 6285,
+      "blocksBroken": 6288,
       "blocksPlaced": 710,
       "mobsKilledTotal": 1087
     },
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766355667054
+  "last_update": 1766355967054
 }
