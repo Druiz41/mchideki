@@ -32,9 +32,9 @@
       "name": "Hide__ki",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 7181,
-      "blocksPlaced": 3244,
-      "mobsKilledTotal": 409
+      "blocksBroken": 7317,
+      "blocksPlaced": 3554,
+      "mobsKilledTotal": 423
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
@@ -77,18 +77,18 @@
       "name": "SoyBenji",
       "deaths": 1,
       "killsPlayers": 0,
-      "blocksBroken": 6908,
-      "blocksPlaced": 2809,
-      "mobsKilledTotal": 2269
+      "blocksBroken": 6911,
+      "blocksPlaced": 2811,
+      "mobsKilledTotal": 2279
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
       "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
       "name": "PapetoOka",
       "deaths": 14,
       "killsPlayers": 0,
-      "blocksBroken": 12370,
-      "blocksPlaced": 10292,
-      "mobsKilledTotal": 2087
+      "blocksBroken": 12375,
+      "blocksPlaced": 10297,
+      "mobsKilledTotal": 2088
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
       "uuid": "052c90a1-e662-3184-8d51-cf475fc5ca95",
@@ -113,9 +113,9 @@
       "name": "Cecy",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 1359,
-      "blocksPlaced": 945,
-      "mobsKilledTotal": 15
+      "blocksBroken": 1360,
+      "blocksPlaced": 946,
+      "mobsKilledTotal": 19
     },
     "f2b16791-87e0-372f-b1ec-c3c6218e2316": {
       "uuid": "f2b16791-87e0-372f-b1ec-c3c6218e2316",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766339076654
+  "last_update": 1766339376669
 }
