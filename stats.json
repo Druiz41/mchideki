@@ -59,8 +59,8 @@
       "name": "cebrita4997",
       "deaths": 5,
       "killsPlayers": 0,
-      "blocksBroken": 1955,
-      "blocksPlaced": 961,
+      "blocksBroken": 2014,
+      "blocksPlaced": 1020,
       "mobsKilledTotal": 46
     },
     "2a3eed23-f1b5-360e-90b0-03a5fb94fa1b": {
@@ -77,17 +77,17 @@
       "name": "SoyBenji",
       "deaths": 3,
       "killsPlayers": 0,
-      "blocksBroken": 8132,
+      "blocksBroken": 8133,
       "blocksPlaced": 3301,
-      "mobsKilledTotal": 2693
+      "mobsKilledTotal": 2739
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
       "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
       "name": "PapetoOka",
       "deaths": 14,
       "killsPlayers": 0,
-      "blocksBroken": 12785,
-      "blocksPlaced": 10346,
+      "blocksBroken": 12790,
+      "blocksPlaced": 10347,
       "mobsKilledTotal": 2105
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766373067054
+  "last_update": 1766373367054
 }
