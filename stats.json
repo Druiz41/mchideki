@@ -78,8 +78,8 @@
       "deaths": 3,
       "killsPlayers": 0,
       "blocksBroken": 8134,
-      "blocksPlaced": 3302,
-      "mobsKilledTotal": 2800
+      "blocksPlaced": 3303,
+      "mobsKilledTotal": 2819
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
       "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766374867054
+  "last_update": 1766375167054
 }
