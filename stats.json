@@ -5,8 +5,8 @@
       "name": "Rodonel_0",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 581,
-      "blocksPlaced": 82,
+      "blocksBroken": 600,
+      "blocksPlaced": 115,
       "mobsKilledTotal": 23
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766543867005
+  "last_update": 1766544167005
 }
