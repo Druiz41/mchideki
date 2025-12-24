@@ -6,7 +6,7 @@
       "deaths": 0,
       "killsPlayers": 0,
       "blocksBroken": 625,
-      "blocksPlaced": 173,
+      "blocksPlaced": 178,
       "mobsKilledTotal": 23
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
@@ -32,9 +32,9 @@
       "name": "Hide__ki",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 7990,
+      "blocksBroken": 7991,
       "blocksPlaced": 3969,
-      "mobsKilledTotal": 449
+      "mobsKilledTotal": 450
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766545367006
+  "last_update": 1766545667006
 }
