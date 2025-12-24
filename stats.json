@@ -5,8 +5,8 @@
       "name": "Rodonel_0",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 616,
-      "blocksPlaced": 171,
+      "blocksBroken": 623,
+      "blocksPlaced": 173,
       "mobsKilledTotal": 23
     },
     "892dce97-bb2b-36a7-aef4-63363cf65856": {
@@ -32,9 +32,9 @@
       "name": "Hide__ki",
       "deaths": 0,
       "killsPlayers": 0,
-      "blocksBroken": 7906,
-      "blocksPlaced": 3960,
-      "mobsKilledTotal": 440
+      "blocksBroken": 7919,
+      "blocksPlaced": 3969,
+      "mobsKilledTotal": 446
     },
     "63ac4f6c-3431-36ea-bead-70b6fc627cd8": {
       "uuid": "63ac4f6c-3431-36ea-bead-70b6fc627cd8",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766544767005
+  "last_update": 1766545067005
 }
