@@ -95,9 +95,9 @@
       "name": "iTzJoseZ",
       "deaths": 0,
       "killsPlayers": 1,
-      "blocksBroken": 116,
+      "blocksBroken": 122,
       "blocksPlaced": 62,
-      "mobsKilledTotal": 158
+      "mobsKilledTotal": 178
     },
     "e82764a5-3c8e-3a75-99b3-63885935b6ee": {
       "uuid": "e82764a5-3c8e-3a75-99b3-63885935b6ee",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766547467005
+  "last_update": 1766560183464
 }
