@@ -21,11 +21,11 @@
     "b7052bed-f73b-3e2f-99f8-e7bb7096481c": {
       "uuid": "b7052bed-f73b-3e2f-99f8-e7bb7096481c",
       "name": "ElYuvy",
-      "deaths": 12,
+      "deaths": 13,
       "killsPlayers": 0,
       "blocksBroken": 7184,
       "blocksPlaced": 973,
-      "mobsKilledTotal": 1233
+      "mobsKilledTotal": 1238
     },
     "142d19b7-e509-3fc5-acda-7d4b1d1720c6": {
       "uuid": "142d19b7-e509-3fc5-acda-7d4b1d1720c6",
@@ -77,18 +77,18 @@
       "name": "SoyBenji",
       "deaths": 4,
       "killsPlayers": 0,
-      "blocksBroken": 11361,
-      "blocksPlaced": 4415,
-      "mobsKilledTotal": 4578
+      "blocksBroken": 11362,
+      "blocksPlaced": 4416,
+      "mobsKilledTotal": 4581
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
       "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
       "name": "PapetoOka",
       "deaths": 16,
       "killsPlayers": 0,
-      "blocksBroken": 14808,
-      "blocksPlaced": 11069,
-      "mobsKilledTotal": 2281
+      "blocksBroken": 14837,
+      "blocksPlaced": 11085,
+      "mobsKilledTotal": 2282
     },
     "052c90a1-e662-3184-8d51-cf475fc5ca95": {
       "uuid": "052c90a1-e662-3184-8d51-cf475fc5ca95",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766687372063
+  "last_update": 1766687672063
 }
