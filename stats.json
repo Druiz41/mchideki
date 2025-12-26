@@ -77,9 +77,9 @@
       "name": "SoyBenji",
       "deaths": 4,
       "killsPlayers": 0,
-      "blocksBroken": 13704,
+      "blocksBroken": 13708,
       "blocksPlaced": 4999,
-      "mobsKilledTotal": 5460
+      "mobsKilledTotal": 5465
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
       "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
@@ -145,5 +145,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766727570423
+  "last_update": 1766727870421
 }
