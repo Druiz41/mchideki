@@ -63,6 +63,15 @@
       "blocksPlaced": 1294,
       "mobsKilledTotal": 48
     },
+    "1f996129-404b-3205-8af6-335fec87f6be": {
+      "uuid": "1f996129-404b-3205-8af6-335fec87f6be",
+      "name": "alejjoM",
+      "deaths": 0,
+      "killsPlayers": 0,
+      "blocksBroken": 18,
+      "blocksPlaced": 16,
+      "mobsKilledTotal": 0
+    },
     "2a3eed23-f1b5-360e-90b0-03a5fb94fa1b": {
       "uuid": "2a3eed23-f1b5-360e-90b0-03a5fb94fa1b",
       "name": "srta_maddy",
@@ -77,9 +86,9 @@
       "name": "SoyBenji",
       "deaths": 4,
       "killsPlayers": 0,
-      "blocksBroken": 13799,
-      "blocksPlaced": 5081,
-      "mobsKilledTotal": 5838
+      "blocksBroken": 13807,
+      "blocksPlaced": 5087,
+      "mobsKilledTotal": 5848
     },
     "168fb922-274d-3073-b60c-a2ff41293a6d": {
       "uuid": "168fb922-274d-3073-b60c-a2ff41293a6d",
@@ -145,5 +154,5 @@
       "mobsKilledTotal": 10
     }
   },
-  "last_update": 1766765553971
+  "last_update": 1766765853971
 }
